@@ -1,5 +1,4 @@
-@import-normalize;
-/* bring in normalize.css styles */
+@import-normalize; /* bring in normalize.css styles */
 
 body {
   background-color: antiquewhite;
@@ -38,7 +37,6 @@ img {
   max-width: 100%;
   height: auto;
 }
-
 #root {
   display: flex;
   flex-direction: column;

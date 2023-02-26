@@ -1,0 +1,24 @@
+.transaction_history {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  padding: 50px 100px;
+  border-radius: 50px;
+  flex-direction: column;
+  background-color: #b16319b0;
+}
+thead tr {
+  display: flex;
+  column-gap: 25px;
+}
+tbody {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+}
+tbody tr {
+  display: flex;
+  flex-direction: row;
+  column-gap: 45px;
+  justify-content: space-between;
+}
